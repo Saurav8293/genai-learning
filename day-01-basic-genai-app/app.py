@@ -23,3 +23,10 @@ print(response1.text)
 print("\n-----------------------\n")
 print(response2.text)
 
+prompt = """
+Explain Generative AI in:
+1. Simple language
+2. One real-world example
+3. 5 bullet points
+"""
+
