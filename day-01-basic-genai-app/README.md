@@ -11,6 +11,7 @@ Here I built a simple application that sends prompts to the Gemini LLM and print
 - How prompts control output
 - Basic Git workflow
 - How to structure a repo professionally
+- Just wrote one prompt message 
 
 🛠 Technologies Used
 - Python 3.10+
